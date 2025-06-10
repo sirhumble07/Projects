@@ -72,5 +72,3 @@ This Notion template helps track the **deployment, governance, and cost optimiza
 🔗 [Azure Cost Management](https://learn.microsoft.com/en-us/azure/cost-management/)  
 
 ---
-
-This template helps **streamline Azure deployment tracking** in Notion. Let me know if you'd like refinements or additional features! 🚀
